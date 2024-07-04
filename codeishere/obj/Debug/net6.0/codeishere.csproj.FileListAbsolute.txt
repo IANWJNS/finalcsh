@@ -1,0 +1,15 @@
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\bin\Debug\net6.0\codeishere.exe
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\bin\Debug\net6.0\codeishere.deps.json
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\bin\Debug\net6.0\codeishere.runtimeconfig.json
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\bin\Debug\net6.0\codeishere.dll
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\bin\Debug\net6.0\codeishere.pdb
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\codeishere.csproj.AssemblyReference.cache
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\codeishere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\codeishere.AssemblyInfoInputs.cache
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\codeishere.AssemblyInfo.cs
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\codeishere.csproj.CoreCompileInputs.cache
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\codeishere.dll
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\refint\codeishere.dll
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\codeishere.pdb
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\codeishere.genruntimeconfig.cache
+C:\Users\lavas\Desktop\ИИ\Разработчик. Основной блок\finaltestcsh\codeishere\obj\Debug\net6.0\ref\codeishere.dll
