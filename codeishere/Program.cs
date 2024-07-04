@@ -13,6 +13,16 @@ string? ReadInput(string msg)
     return Console.ReadLine();
 }
 
+void PrintArray(string[] array)
+{
+    Console.Write("[ ");
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"“{array[i]}”, ");
+    }
+    Console.Write("] ");
+}
+
 Commands();
 string[] array = new string[] {};
 string? fromUser = ReadInput("Введите команду: ");
@@ -31,42 +41,24 @@ switch (fromUser)
         Console.WriteLine($"{fromUser} - От 1 до 3, дружище.");
         break;
 }
-class Programm
-{ 
-static void Main() 
-{ 
-string[] inputArray = new string[] { "Hello", "2", "world", ":-)" }; 
-string[] resultArray = FilterArray(inputArray); 
+int lenNewArray = 0;
+for (int i = 0; i <= array.Length - 1; i++)
+{
+    if (array[i].Length <= 3) lenNewArray++;
+}
 
-foreach (var item in resultArray) 
-{ 
-Console.Write(item + " "); 
-} 
-} 
+string[] newArray = new string[lenNewArray];
+int idx = 0;
 
-static string[] FilterArray(string[] input) 
-{ 
-int count = 0; 
-for (int i = 0; i < input.Length; i++) 
-{ 
-if (input[i].Length <= 3)  
-{ 
-count++; 
-} 
-} 
+for (int i = 0; i <= array.Length - 1; i++)
+{
+    if (array[i].Length <= 3)
+    {
+        newArray[idx] = array[i];
+        idx++;
+    }
+}
 
-string[] result = new string[count]; 
-
-count = 0;  
-for (int i = 0; i < input.Length; i++) 
-{ 
-if (input[i].Length <= 3) 
-{ 
-result[count] = input[i]; 
-count++; 
-} 
-} 
-
-return result; 
-} 
-} 
+PrintArray(array);
+Console.Write("→ ");
+PrintArray(newArray);
